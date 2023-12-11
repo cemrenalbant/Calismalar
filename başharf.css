@@ -1,0 +1,24 @@
+﻿body{
+	background-color:gray;
+	
+}
+.temizle{clear:both;}
+
+.siyah{
+	width:100;
+   height:100;
+   background-color:black;
+   float:left;
+}
+.beyaz{
+	width:100;
+   height:100;
+   background-color:white;
+   float:left;
+}
+.gri{
+		width:100;
+   height:100;
+   background-color:grey;
+   float:left;
+}

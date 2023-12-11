@@ -1,0 +1,40 @@
+body{
+	background-color:gray;
+	
+}
+img.ortala{
+	vertical-align:middle;
+	text-align:center;
+	padding:25px;
+	
+}
+#ana{
+	margin:auto;
+	border:5px solid pink;
+	width:800px;
+	margin-top:80px;
+	margin-bottom:80px;
+}
+
+
+.temizle{clear:both;}
+
+.siyah{
+	width:100;
+   height:100;
+   background-color:black;
+   float:left;
+}
+.siyah1{
+	width:100px;
+   height:100px;
+   background-color:black;
+   float:left;
+ background-image:url("konfeti.png");
+}
+.beyaz{
+	width:100;
+   height:100;
+   background-color:white;
+   float:left;
+}

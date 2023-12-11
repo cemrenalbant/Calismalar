@@ -1,0 +1,43 @@
+body{ 
+background-color:gray;
+}
+#ana {width:90%;
+ height:auto;
+ margin:auto; 
+border:10px solid pink;
+ background-color:olive;
+ }
+
+.kutu1{
+	width:25%;
+	height:100px;
+	background-color:#3333cc;
+	float:left;
+	margin-left:50px;
+	margin-bottom:30px;
+	margin-top:30px;
+}
+
+.kutu2{
+	width:25%;
+	height:100px;
+	background-color:#7CBCEE;	
+	float:left;
+	margin-left:50px;
+}
+
+.kutu3{
+	width:25%;
+	height:100px;
+	background-color:#cc66cc;	
+	float:left;
+	margin-left:50px;
+}
+.kutu4{
+	width:75%;
+	height:100px;
+	background-color:#ffff33;	
+	clear:both;
+	margin-left:70px;
+
+}

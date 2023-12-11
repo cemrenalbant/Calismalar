@@ -1,0 +1,60 @@
+body{ 
+background-color:gray;
+}
+#ana {
+	width:90%;
+   height:auto;
+   margin:auto; 
+   border:10px solid pink;
+   }
+ .kutu1{
+	width:100%;
+	height:100px;
+	background-color:#3333cc;
+}
+
+.kutu2{
+	width:50%;
+	height:100px;
+	background-color:#7CBCEE;	
+	float:left;
+}
+
+.kutu3{
+	width:50%;
+	height:100px;
+	background-color:#cc66cc;	
+	float:left;
+}
+
+
+.kutu4{
+	width:100%;
+	height:50px;
+	background-color:#ffff33;
+	clear:both;
+
+}
+ .kutu5{
+	width:33.3%;
+	height:100px;
+	background-color:#3333cc;
+	float:left;
+}
+
+.kutu6{
+	width:33.3%;
+	height:100px;
+	background-color:#7CBCEE;	
+	float:left;
+}
+
+.kutu7{
+	width:33.3%;
+	height:100px;
+	background-color:#cc66cc;	
+	float:left;
+}
+.temizle{
+	clear:both;
+}

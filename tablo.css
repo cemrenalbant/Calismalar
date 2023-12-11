@@ -1,0 +1,47 @@
+body{
+	background-color:gray;
+	font-size:25px;
+	color:black;
+}
+#ana{
+	border:10px solid black;
+	margin:auto;
+	height:auto;
+	width:90%;
+	margin-top:10px;
+
+}
+.temizle{
+	clear:both;
+}
+.banner{
+	background-color:pink;
+	height:250;
+	width:100%;
+	text-align:center;
+}
+.uzun_satır{
+	height:50px;
+	width:24.83%;
+	background-color:lightblue;
+	float:left;
+	border:1px solid black;
+	text-align:center;
+}
+.içerik{
+	height:350px;
+	width:100%;
+	background-color:#339999;
+	text-align:center;
+	
+}
+.alt_alan{
+	height:50px;
+	width:100%;
+	background-color:#6633FF;
+	text-align:center;
+}
+a:hover{color:red; background-color:black;}
+a:link{color:yellow;}
+a:active{color:orange;}
+a.visitet{color:red;}

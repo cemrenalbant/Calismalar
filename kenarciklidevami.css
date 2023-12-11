@@ -1,0 +1,54 @@
+.kutuC{
+	background-color:pink;
+	width:350px;
+	height:200px;
+	margin-top:5px;
+	border-bottom-color:purple;
+	border-bottom-style:dotted;
+	border-bottom-width:10px;
+	
+	border-top-color:purple;
+	border-top-style:dashed;
+	border-top-width:10px;
+	
+	border-left-color:blue;
+	border-left-style:solid;
+	border-left-width:10px;
+	
+	border-right-color:blue;
+	border-right-style:double;
+	border-right-width:10px;
+	margin:auto;
+	
+}
+.kutuE{
+	background-color:pink;
+	width:350px;
+	height:200px;
+	margin-top:5px;
+	
+	border-bottom-color:red;
+	border-bottom-style:groove;
+	border-bottom-width:10px;
+	
+	border-top-color:red;
+	border-top-style:ridge;
+	border-top-width:10px;
+	
+	border-left-color:blue;
+	border-left-style:inset;
+	border-left-width:10px;
+	
+	border-right-color:blue;
+	border-right-style:outset;
+	border-right-width:10px;
+	margin:auto;
+}
+.kutuM{
+	background-color:pink;
+	width:350px;
+	height:200px;
+	margin-top:5px;
+	border:10px dashed red;
+	margin:auto;
+}
